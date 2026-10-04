@@ -2,7 +2,7 @@
 
 > **1K $0.015** · model ID `grok-imagine-2.0-ext` · **리버스/역설계** route.
 
-**[요금 보기](https://go.apimart.ai/k-fab30b)** · **[API 키 발급](https://go.apimart.ai/k-378ac7)**
+**[요금 보기](https://go.apimart.ai/k-285e2a)** · **[API 키 발급](https://go.apimart.ai/k-378ac7)**
 
 grok-imagine-2.0-ext-reverse-api-ko 는 **리버스** Grok Imagine 2.0 Ext 라우트입니다. 호출 ID 는 `grok-imagine-2.0-ext` 이며, 공식 라우트 (`grok-imagine-image-2.0`) 와 병행 제공되어 단가가 더 낮습니다.。
 
