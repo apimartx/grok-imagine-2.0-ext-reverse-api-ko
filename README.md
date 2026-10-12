@@ -1,10 +1,27 @@
-# Grok Imagine 2.0 Ext — 리버스 route (한국어)
+# Grok Imagine 2.0 API (`grok-imagine-2.0-ext`)
 
-> **1K $0.015** · model ID `grok-imagine-2.0-ext` · **리버스/역설계** route.
+<!-- conv-kit:v1 -->
 
-**[요금 보기](https://go.apimart.ai/k-285e2a)** · **[API 키 발급](https://go.apimart.ai/k-378ac7)**
+<p align="center">
+  <img src="assets/badges/price.svg" alt="observed unit price"> <img src="assets/badges/billing.svg" alt="billing model"> <img src="assets/badges/compat.svg" alt="OpenAI-compatible endpoint">
+</p>
 
-grok-imagine-2.0-ext-reverse-api-ko 는 **리버스** Grok Imagine 2.0 Ext 라우트입니다. 호출 ID 는 `grok-imagine-2.0-ext` 이며, 공식 라우트 (`grok-imagine-image-2.0`) 와 병행 제공되어 단가가 더 낮습니다.。
+<p align="center">
+  <img src="assets/01-product-hero-perfume.jpg" width="820" alt="Grok Imagine 2.0 (grok-imagine-2.0-ext) output generated through APIMart">
+</p>
+
+> **from $0.015 per image** (region-edit $0.015) — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+
+**[Get an API key](https://go.apimart.ai/k-378ac7)** · **[Live pricing](https://go.apimart.ai/k-692e86)** · **[Model page](https://go.apimart.ai/k-c4153a)** · [⚡ 60-second quickstart](#quickstart)
+
+**Why teams call Grok Imagine 2.0 (`grok-imagine-2.0-ext`) through APIMart**
+
+- **One key, entire catalog.** The same `https://api.apimart.ai/v1` base URL and `Authorization` header reach Grok Imagine 2.0 (`grok-imagine-2.0-ext`) and 300+ other image, video and language models — switch the `model` field, not your client.
+- **$1 minimum, pay as you go.** No subscription and no prepaid plan to size up front: top up from $1 and spend it on calls. There is no free quota to burn through first, so the price in this table is the price you pay.
+- **The charge comes back in the response.** Every completed task reports the amount billed (`cost` / `credits_cost`), so a spend number is read per call instead of guessed at month end.
+- **Async by design.** Submit, take the `task_id`, poll `GET /v1/tasks/{id}` — batching and retries are ordinary queue work, not a bespoke integration.
+
+<!-- /conv-kit:v1 -->
 
 ## Pricing (snapshot 2026-09-28)
 
